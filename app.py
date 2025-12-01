@@ -12,8 +12,7 @@ model = genai.GenerativeModel("gemini-2.5-flash-lite")
 
 
 
-git config --global user.email "smokezkiller@gmail.com"
-git config --global user.name "smokezkiller-web"
+
 
 
 st.button("Rerun")
